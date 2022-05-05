@@ -1,0 +1,4 @@
+#Thu May 05 16:19:27 CST 2022
+base.0=C\:\\Users\\13283\\Desktop\\workspace\\SpeechRecognitionApp\\speechDemo\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
